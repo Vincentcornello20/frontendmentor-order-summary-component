@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-tqI_4PT5OB)
 - Live Site URL: (https://vincentcornello20.github.io/frontendmentor-order-summary-component/)
 
 ## My process
